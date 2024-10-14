@@ -21,7 +21,7 @@ const TroopFormationForm = () => {
 
     const handleSubmit = async (event) => {
         event.preventDefault();
-        const response = await fetch('http://localhost:5000/api/formation/calculate', {
+        const response = await fetch('/api/formation/calculate', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
