@@ -108,7 +108,16 @@ frontend/
    - Ensure the backend is running to save and retrieve formation results.  
 
 ---
+## **Images**  
 
+![t1](https://github.com/user-attachments/assets/db122ea2-eecd-4ab7-8b3c-9a8d35021f3f)
+![t2](https://github.com/user-attachments/assets/b8059189-59c1-461d-8309-7dc53093bf48)
+![t3](https://github.com/user-attachments/assets/7b0b2a05-d8eb-4377-9c12-d46f55fe3aac)
+![t4](https://github.com/user-attachments/assets/0e016ec7-82ba-41bc-84ac-f18bf44bea23)
+![t5](https://github.com/user-attachments/assets/c9530a94-09ab-4a9f-9bb0-ccc6424fa39a)
+![t6](https://github.com/user-attachments/assets/7953346c-d26e-44ae-9b47-276a10d39674)
+
+---
 ## **Future Improvements**  
 - **State Management**: Implement Redux for improved state handling.  
 - **API Integration**: Use Axios for smoother API requests.  
