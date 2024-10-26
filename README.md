@@ -1,11 +1,11 @@
 
 ---
 
-# **TroopFormation Frontend**  
+# **Troop Formation Recommender**  
 
-This repository contains the **frontend** of the **Troop Formation Calculator**, a MERN-based application that allows users to calculate and store optimal troop formations for strategic gameplay. It provides an intuitive interface with authentication and formation calculation features.  
+This repository contains the **frontend** of the **Troop Formation Recommenderr**, a MERN-based application that allows users to calculate and store optimal troop formations for strategic gameplay. It provides an intuitive interface with authentication and formation calculation features.  
 
-For backend logic, refer to the [TroopFormation Backend Repository](https://github.com/vanosski/troopformation-backend).  
+For backend logic, refer to the [Troop Formation Backend Repository](https://github.com/vanosski/troopformation-backend).  
 
 ---
 
