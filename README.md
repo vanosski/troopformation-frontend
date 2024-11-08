@@ -5,6 +5,8 @@
 
 This repository contains the **frontend** of the **Troop Formation Recommenderr**, a MERN-based application that allows users to calculate and store optimal troop formations for strategic gameplay. It provides an intuitive interface with authentication and formation calculation features.  
 
+Live : [Troop Formation}(https://lastlandtroopformationcalculator.vercel.app/)
+
 For backend logic, refer to the [Troop Formation Backend Repository](https://github.com/vanosski/troopformation-backend).  
 
 ---
